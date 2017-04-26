@@ -8,8 +8,13 @@ def joke():
 
 
 def add():
-    a = input("Add a: ")
+    a = input("Add c: ")
     b = input("Add b: ")
+<<<<<<< HEAD
     print(a, "+", b, "=", a+b)
     return a, b 
+=======
+    print(a,"+", b, "=", a+b)
+    return a, b
+>>>>>>> ce9209b652933a29fcf583a1119197800a8d547f
 
