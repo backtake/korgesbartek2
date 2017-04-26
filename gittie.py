@@ -8,10 +8,10 @@ def joke():
 =======
 
 def add():
-    a = input("Add a: ")
+    a = input("Add c: ")
     b = input("Add b: ")
     print(a,"+", b, "=", a+b)
-    return a, b 
+    return a, b
 
 
 
